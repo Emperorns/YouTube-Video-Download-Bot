@@ -11,12 +11,12 @@ from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 ########################🎊 Lisa | NT BOTS 🎊######################################################
 # Replace 'YOUR_API_ID', 'YOUR_API_HASH', and 'YOUR_BOT_TOKEN' with your actual values
-API_ID = ''
-API_HASH = ''
-BOT_TOKEN = ''
+API_ID = '22711559'
+API_HASH = '07f916d610702eb4b0678bdf32c895c1'
+BOT_TOKEN = '6766287844:AAEV-TDgFII0giIZdyDd6VcFWgFPnh1AM3A'
 #########################
 # Add Your Channel Id 
-CHANNEL = ''
+CHANNEL = '-1001967167299'
 # Skip Or Add Your Proxy Link
 HTTP_PROXY = ''
 #########################
